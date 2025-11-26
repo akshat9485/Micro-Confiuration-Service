@@ -1,6 +1,5 @@
-spring:
-  application:
-    name: configdefault
+server:
+  port: 8086
 
 
 eureka:
